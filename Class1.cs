@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Kokarev_Kval
 {
-    //Класс - Человек | Кокарев Тимофей 31 "ИС" //
+    //Класс - Человек | Кокарев Тимофей 31 "ИС"
     public class Person
     {
         //Хобби данного человека и информация о человеке
